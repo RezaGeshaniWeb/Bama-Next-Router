@@ -15,7 +15,7 @@
 
 - Created - 2025-04-05
 
-- Technologies Used - TailwindCSS , React.Js , Next.Js
+- Technologies Used - TailwindCSS , React , Next.Js
 
 - Dependencies - React-Hot-Toast
 
